@@ -24,33 +24,33 @@
   background-color: #c0d8d8;
 }
 
-#preview {
+#markdown {
   margin-top: 20px;
   width: 60%;
 }
 
-#markdown {
+#preview {
   border: 1px solid grey;
   padding: 20px;
   background-color: #c0d8d8;
 }
 
-#markdown h1
+#preview h1
 {
   border-bottom: 3px solid black;
 }
 
-#markdown h2
+#preview h2
 {
   border-bottom: 1px solid black;
 }
 
-#markdown code, pre
+#preview code, pre
 {
   background-color: white;
 }
 
-#markdown blockquote
+#preview blockquote
 {
   border-left: 3px solid #224b4b;
   color: #224b4b;
